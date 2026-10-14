@@ -1,0 +1,18 @@
+SAMPLE TRAINING DOCUMENT — NOT AN OFFICIAL GOVERNMENT SCHEME DOCUMENT
+
+Purpose
+This file is only a placeholder to confirm that the application can load a TXT file and answer questions. It does not describe a real scheme and must not be used to make application or eligibility decisions.
+
+Example fictional scheme: Demo Farmer Support Programme
+The fictional Demo Farmer Support Programme is used only as sample text for testing retrieval. This sample document does not establish real eligibility criteria, benefit amounts, application dates, or official application procedures.
+
+Example application checklist
+For a real agriculture scheme, users should consult the official government notification or scheme portal to confirm:
+- eligibility and landholding requirements
+- benefit amount and payment schedule
+- required identity, bank, land, and farmer registration documents
+- application opening and closing dates
+- official application portal and grievance contact details
+
+Important
+If a user asks for the actual benefit amount, eligibility, or deadline of a real scheme, the application should say that this sample document does not contain enough information. Replace this file with current official scheme documents before using the application for real guidance.
